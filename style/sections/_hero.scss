@@ -30,6 +30,13 @@
     }
     @include respond(phone) {
       padding: 0rem $default-font-size;
+      display: none;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .skills {
+      display: none;
     }
   }
 
