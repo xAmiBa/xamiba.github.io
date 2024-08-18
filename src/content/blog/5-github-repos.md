@@ -6,7 +6,7 @@ slug: "5-must-star-github-repositories"
 featured: false
 draft: false
 tags:
-  - Coding
+  - "coding"
 description:
   "Here are five GitHub repositories that you absolutely must star and watch as an aspiring software developer..."
   

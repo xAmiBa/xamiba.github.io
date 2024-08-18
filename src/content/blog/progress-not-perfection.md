@@ -7,8 +7,8 @@ slug: "progress-not-perfection"
 featured: false
 draft: false
 tags:
-  - Self Development
-  - Coding
+  - "self-development"
+  - "coding"
 description:
   "Tracking your coding progress helps you remember both struggles and triumphs, boosting your motivation and confidence. It also provides compelling stories for job interviews, showcasing your growth and resilience"
 

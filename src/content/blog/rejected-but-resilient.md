@@ -6,8 +6,8 @@ slug: "rejected-but-resilient"
 featured: false
 draft: false
 tags:
-  - Career Change
-  - Job Search
+  - "career-change"
+  - "job-search"
 description: 
   "Ever wonder what it’s REALLY like to search for a junior developer role in today's market? Spoiler alert: it's not all sunshine and LinkedIn success stories."
 
