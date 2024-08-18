@@ -8,6 +8,9 @@ on:
       - synchronize
       - reopened
   workflow_call:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -40,3 +43,9 @@ jobs:
 
       - name: "🚀 Build the project"
         run: npm run build
+
+      - name: "🚀 Deploy to Github pages"
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: "./dist"

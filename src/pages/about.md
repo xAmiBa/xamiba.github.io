@@ -1,36 +1,21 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Me"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+<!-- <div stle="text-align: center;"> -->
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+![amina ba software engineer kraken technologies](../assets/images/amina.png)
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+Backend Engineer at Kraken Technologies (Octopus Energy group 🐙) with a strong passion for **Python** and a commitment to driving **inclusion** in the tech industry. As a Women TechMakers Ambassador for Google, I advocate for diversity and strive to create inclusive environments within the tech community. My experience spans from digital marketing to backend engineering, where I focus on building robust and scalable systems. I thrive on continuous learning and am dedicated to advancing technology in a way that benefits all users.
 
-## Tech Stack
+-----
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+⭐️ Google’s Women TechMakers Ambassador (2024)
 
-## Features
+🥇 Recipient of the Makers Represent Scholarship by Coding Black Females (2023)
 
-Here are certain features of this site.
+🥇 Winner of SheCanCode & Dojo Hackathon for best Women's Safety App (2023)
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+🥇 Winner of Python Programming Challenge by CodeFirstGirls (2023)
