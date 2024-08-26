@@ -32,16 +32,16 @@ jobs:
             node-version: ${{ matrix.node-version }} # The specific version of Node that should be used to build your site. Defaults to 20. (optional)
     
       - name: Install dependencies
-        uses: npm ci
+        run: npm ci
 
       - name: Lint code
-        uses: npm run lint
+        run: npm run lint
 
       - name: Checking code format
-        uses: npm run format:check
+        run: npm run format:check
 
       - name: Build the project
-        uses: npm run build
+        run: npm run build
 
       - name: Install, build, and upload your site
         uses: withastro/action@v2
