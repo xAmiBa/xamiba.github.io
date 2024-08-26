@@ -33,13 +33,13 @@ Dealing with constant rejection, even for low-paying positions where I ticked al
 
 ## It's More Automated Than a Self-Driving Car.
 
-![looking for a job as junior software engineer amazon assestment](/src/assets/images/rejected-but-resilient-1.png)
+![looking for a job as junior software engineer amazon assestment](../../assets/images/rejected-but-resilient-1.png)
 
 <p style="font-size:10px; text-align:center;">https://www.reddit.com/r/WorkReform/comments/u21i3p/fucking_personality_tests_in_2022wtf_amazon_what/</p>
 
 I noticed that most junior, graduate, internship, or apprenticeship jobs have a highly automated recruitment process. I was surprised at how little coding was involved. We're talking about four or five recruitment stages involving cognitive tests, company fit tests, personality tests, pattern recognition tests, emotional intelligence tests, and video recording interviews.
 
-![assestment for junior software dev job](/src/assets/images/rejected-but-resilient-2.png)
+![assestment for junior software dev job](../..//assets/images/rejected-but-resilient-2.png)
 
 <p style="font-size:10px; text-align:center;">It's a very similar example of what my assestment looked like. </p>
 

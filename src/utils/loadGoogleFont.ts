@@ -7,10 +7,7 @@ export type FontOptions = {
   style: FontStyle | undefined;
 };
 
-async function loadGoogleFont(
-  font: string,
-  text: string
-): Promise<ArrayBuffer> {
+async function loadGoogleFont(font: string, text: string): Promise {
   const API = `https://fonts.googleapis.com/css2?family=${font}&text=${encodeURIComponent(text)}`;
 
   const css = await (
@@ -38,11 +35,7 @@ async function loadGoogleFont(
   return fonts;
 }
 
-async function loadGoogleFonts(
-  text: string
-): Promise<
-  Array<{ name: string; data: ArrayBuffer; weight: number; style: string }>
-> {
+async function loadGoogleFonts(text: string): Promise {
   const fontsConfig = [
     {
       name: "IBM Plex Mono",

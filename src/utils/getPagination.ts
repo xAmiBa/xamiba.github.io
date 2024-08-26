@@ -11,7 +11,7 @@ const getPagination = <T>({
   posts,
   page,
   isIndex = false,
-}: GetPaginationProps<T[]>) => {
+}: GetPaginationProps) => {
   const totalPagesArray = getPageNumbers(posts.length);
   const totalPages = totalPagesArray.length;
 

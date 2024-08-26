@@ -6,7 +6,7 @@ import type { CollectionEntry } from "astro:content";
 export type SearchItem = {
   title: string;
   description: string;
-  data: CollectionEntry<"blog">["data"];
+  data: CollectionEntry["data"];
   slug: string;
 };
 
@@ -26,7 +26,7 @@ export default function SearchBar({ searchList }: Props) {
     null
   );
 
-  const handleChange = (e: FormEvent<HTMLInputElement>) => {
+  const handleChange = (e: FormEvent) => {
     setInputVal(e.currentTarget.value);
   };
 
