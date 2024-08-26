@@ -40,7 +40,7 @@ Dealing with constant rejection, even for low-paying positions where I ticked al
 
 I noticed that most junior, graduate, internship, or apprenticeship jobs have a highly automated recruitment process. I was surprised at how little coding was involved. We're talking about four or five recruitment stages involving cognitive tests, company fit tests, personality tests, pattern recognition tests, emotional intelligence tests, and video recording interviews.
 
-![assestment for junior software dev job online](/src/assets/images/rejected-but-resilient-2.png)
+![assestment for junior software dev job](/src/assets/images/rejected-but-resilient-2.png)
 <p style="font-size:10px; text-align:center;">It's a very similar example of what my assestment looked like. </p>
 
 It's a very similar example of what my assestment looked like. Source: 
