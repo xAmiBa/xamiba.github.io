@@ -7,9 +7,7 @@ featured: false
 draft: false
 tags:
   - "coding"
-description:
-  "Here are five GitHub repositories that you absolutely must star and watch as an aspiring software developer..."
-  
+description: "Here are five GitHub repositories that you absolutely must star and watch as an aspiring software developer..."
 ---
 
 **One of the many reasons why I love the tech community is its commitment to open-source collaboration and the philosophy that knowledge should be accessible to all, free of charge.**

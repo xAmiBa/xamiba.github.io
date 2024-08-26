@@ -8,12 +8,10 @@ draft: false
 tags:
   - "career-change"
   - "job-search"
-description: 
-  "Ever wonder what it’s REALLY like to search for a junior developer role in today's market? Spoiler alert: it's not all sunshine and LinkedIn success stories."
-
+description: "Ever wonder what it’s REALLY like to search for a junior developer role in today's market? Spoiler alert: it's not all sunshine and LinkedIn success stories."
 ---
 
-*[This article is based on my personal experiences looking for a junior/entry tech role in the UK in 2024 as a bootcamp graduate.]*
+_[This article is based on my personal experiences looking for a junior/entry tech role in the UK in 2024 as a bootcamp graduate.]_
 
 So, I just finished up at Makers Academy, armed with solid training and a big dose of confidence. I thought I'd be that person on LinkedIn bragging about landing a tech job in 30 days. Spoiler alert: that didn’t happen. Instead, it took me five long months of full-time job hunting (yes, at least 40 hours a week), over 100 versions of my CV, 5 phone screenings, 25 automated assestments, 8 video interviews and 4 tech interviews to finally land a junior software engineer role. This isn't an advice column, but rather a survival tale from the UK tech job market trenches.
 
@@ -31,19 +29,21 @@ Initially, I only looked at roles with tech stacks I knew. Reality check: if I c
 
 After a few months, I lowered my salary expectations. Instead of aiming for higher-paying jobs, I started applying for lower-paid positions. I couldn’t job hunt forever. I was shocked to find that jobs barely paying the London Living Wage (and let’s be real, Londoners, that wage is not livable 🤣) had four or more recruitment stages and the same insane competition.
 
-Dealing with constant rejection, even for low-paying positions where I ticked all the boxes, takes a toll on your mental health. Initially, I was immune to rejections, but over time, that shield weakened. Don’t get me wrong; every rejection, failed interview, or technical challenge was part of the journey. Thanks to this practice, I eventually landed three job offers, but some days, the rejection hit hard. 
+Dealing with constant rejection, even for low-paying positions where I ticked all the boxes, takes a toll on your mental health. Initially, I was immune to rejections, but over time, that shield weakened. Don’t get me wrong; every rejection, failed interview, or technical challenge was part of the journey. Thanks to this practice, I eventually landed three job offers, but some days, the rejection hit hard.
 
 ## It's More Automated Than a Self-Driving Car.
 
 ![looking for a job as junior software engineer amazon assestment](/src/assets/images/rejected-but-resilient-1.png)
+
 <p style="font-size:10px; text-align:center;">https://www.reddit.com/r/WorkReform/comments/u21i3p/fucking_personality_tests_in_2022wtf_amazon_what/</p>
 
 I noticed that most junior, graduate, internship, or apprenticeship jobs have a highly automated recruitment process. I was surprised at how little coding was involved. We're talking about four or five recruitment stages involving cognitive tests, company fit tests, personality tests, pattern recognition tests, emotional intelligence tests, and video recording interviews.
 
 ![assestment for junior software dev job](/src/assets/images/rejected-but-resilient-2.png)
+
 <p style="font-size:10px; text-align:center;">It's a very similar example of what my assestment looked like. </p>
 
-It's a very similar example of what my assestment looked like. Source: 
+It's a very similar example of what my assestment looked like. Source:
 The most shocking test was for one of the FAANG companies, measuring my emotional intelligence. I was presented with pictures of creepy, human-like (or should I say alien-like 👽) AI-generated faces and asked to recognize emotions.
 
 Another test measured my motivation by having me play an unwinnable game. I could give up anytime, but if I quit before 10 minutes, I failed. Quitting between 10-20 minutes was okay; my motivation was high enough. Giving up after 30 minutes meant I was overdoing it and wouldn't be efficient at work.

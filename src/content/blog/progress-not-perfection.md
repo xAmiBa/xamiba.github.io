@@ -1,6 +1,5 @@
 ---
-title:
-  "Progress, Not Perfection: 3 Reasons Why Progress Tracking is Essential in Learning How To Code + 💡 Notion Programming Progress Tracker!"
+title: "Progress, Not Perfection: 3 Reasons Why Progress Tracking is Essential in Learning How To Code + 💡 Notion Programming Progress Tracker!"
 author: Amina Ba
 pubDatetime: 2023-12-01T04:06:31Z
 slug: "progress-not-perfection"
@@ -9,9 +8,7 @@ draft: false
 tags:
   - "self-development"
   - "coding"
-description:
-  "Tracking your coding progress helps you remember both struggles and triumphs, boosting your motivation and confidence. It also provides compelling stories for job interviews, showcasing your growth and resilience"
-
+description: "Tracking your coding progress helps you remember both struggles and triumphs, boosting your motivation and confidence. It also provides compelling stories for job interviews, showcasing your growth and resilience"
 ---
 
 ## REASON 1: Embracing Every Step of the Journey
