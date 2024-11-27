@@ -7,6 +7,7 @@ import Footer from "@components/Footer.astro";
 import Pagination from "@components/Pagination.astro";
 import Card from "@components/Card";
 import { SITE } from "@config";
+import GoogleAnalytics from "@components/GoogleAnalytics.astro";
 
 export interface Props {
   currentPage: number;
@@ -18,6 +19,8 @@ const { currentPage, totalPages, paginatedPosts } = Astro.props;
 ---
 
 <Layout title={`Posts | ${SITE.title}`}>
+  <!-- Google tag (gtag.js) -->
+  <GoogleAnalytics />
   <Header activeNav="posts" />
   <Main pageTitle="Posts" pageDesc="All the articles I've posted.">
     <ul>
